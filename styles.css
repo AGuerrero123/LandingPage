@@ -62,7 +62,7 @@ a {
 .right {
   align-self: stretch;
   flex: 1;
-  background: url(../lakeImage.jpg);
+  background: url(images/lakeImage.jpg);
   background-size: cover;
   border-radius: 8px;
   width: 400px;
